@@ -1,0 +1,2 @@
+#python3 ./syn.py --format=tests/test1/format_file --input=tests/test1/input_file --output=tests/test1/output_file
+python3 ./syn.py --format=fituska/error-size.fmt --input=tests/test1/input_file --output=tests/test1/output_file
